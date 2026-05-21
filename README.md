@@ -1,4 +1,4 @@
-# Grafos_EstrucuturaDatos
+# Grafos_EstructuraDatos
 Integrantes:
 Juan Jose Renteria
 Jeronimo Hoyos
